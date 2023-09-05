@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  agent_dart: ^1.0.0-dev.8
+  agent_dart: ^0.1.24+1
   plugin_platform_interface: ^2.0.2
   tuple: ^2.0.0
 
